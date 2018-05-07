@@ -1,0 +1,399 @@
+aaa_base
+aaa_elflibs
+aaa_terminfo
+lilo
+kernel-huge
+kernel-generic
+kernel-headers
+kernel-modules
+kernel-firmware
+kernel-source
+dialog
+etc
+glibc-solibs
+glibc-zoneinfo
+groff
+infozip
+mkinitrd
+net-tools
+network-scripts
+pkgtools
+slackpkg
+syslinux
+bin
+cpio
+grep
+js185
+pm-utils
+sudo
+which
+gnupg
+gzip
+ConsoleKit2
+gpm
+xterm
+xinit
+gcc-g++
+polkit
+git
+glibc
+glibc-i18n
+xorg-server
+links
+xf86-input-evdev
+libevdev
+mtdev
+xf86-video-intel
+terminus-font
+dejavu-fonts-ttf
+udisks2
+startup-notification
+curl
+wget
+iputils
+htop
+rsync
+cdrtools
+dvd+rw-tools
+eject
+NetworkManager
+ModemManager
+usb_modeswitch
+ppp
+usbutils
+vim-gvim
+alsa-utils
+alsa-lib
+yasm
+ntfs-3g
+gnome-themes-standard
+xdg-utils
+xdg-user-dirs
+cmake
+libarchive
+lzip
+ncompress
+mozilla-firefox
+seamonkey-solibs
+gettext-tools
+dcron
+sharutils
+ntp
+ca-certificates
+libnotify
+python
+
+
+openssl
+pixman
+font-util
+encodings
+font-adobe-100dpi
+font-adobe-75dpi
+font-adobe-utopia-100dpi
+font-adobe-utopia-75dpi
+font-adobe-utopia-type1
+font-alias
+font-arabic-misc
+font-bh-100dpi
+font-bh-75dpi
+font-bh-lucidatypewriter-100dpi
+font-bh-lucidatypewriter-75dpi
+font-bh-ttf
+font-bh-type1
+font-bitstream-100dpi
+font-bitstream-75dpi
+font-bitstream-speedo
+font-bitstream-type1
+font-cronyx-cyrillic
+font-cursor-misc
+font-daewoo-misc
+font-dec-misc
+font-ibm-type1
+font-isas-misc
+font-jis-misc
+font-micro-misc
+font-misc-cyrillic
+font-misc-ethiopic
+font-misc-meltho
+font-misc-misc
+font-mutt-misc
+font-schumacher-misc
+font-screen-cyrillic
+font-sony-misc
+font-sun-misc
+font-winitzki-cyrillic
+font-xfree86-type1
+xcursor-themes
+bdftopcf
+iceauth
+luit
+mkfontdir
+mkfontscale
+sessreg
+setxkbmap
+smproxy
+x11perf
+xauth
+xbacklight
+xcmsdb
+xcursorgen
+xdpyinfo
+xdriinfo
+xev
+xgamma
+xhost
+xinput
+xkbcomp
+xkbevd
+xkbutils
+xkill
+xlsatoms
+xlsclients
+xmessage
+xmodmap
+xpr
+xprop
+xrandr
+xrdb
+xrefresh
+xset
+xsetroot
+xvinfo
+xwd
+xwininfo
+xwud
+libpng
+mesa
+xtrans
+libX11
+libXext
+libFS
+libICE
+libSM
+libXScrnSaver
+libXt
+libXmu
+libXpm
+libXaw
+libXfixes
+libXcomposite
+libXrender
+libXcursor
+libXdamage
+libfontenc
+libXfont
+libXft
+libXi
+libXinerama
+libXrandr
+libXres
+libXtst
+libXv
+libXvMC
+libXxf86dga
+libXxf86vm
+libdmx
+libpciaccess
+libxkbfile
+libxshmfence
+fontconfig
+freetype
+libxcb
+libXau
+bigreqsproto
+compositeproto
+damageproto
+dmxproto
+dri2proto
+dri3proto
+fixesproto
+fontsproto
+glproto
+inputproto
+kbproto
+presentproto
+randrproto
+recordproto
+renderproto
+resourceproto
+scrnsaverproto
+videoproto
+xcmiscproto
+xextproto
+xf86bigfontproto
+xf86dgaproto
+xf86driproto
+xf86vidmodeproto
+xineramaproto
+xproto
+util-macros
+xcb-proto
+libdrm
+xbitmaps
+xcb-util
+xkeyboard-config
+
+gtk+2
+atk
+glib2
+libffi
+gdk-pixbuf2
+libjpeg-turbo
+pango
+hicolor-icon-theme
+shared-mime-info
+desktop-file-utils
+
+gtk+3
+at-spi2-atk
+at-spi2-core
+dbus
+libepoxy
+adwaita-icon-theme
+gobject-introspection
+
+qt
+
+
+# Dependencies
+gnutls
+cyrus-sasl
+libXdmcp
+libgudev
+libatasmart
+fftw
+libsamplerate
+nettle
+lzo
+libxml2
+harfbuzz
+libcroco
+libunistring
+gcc-java
+guile
+gc
+db48
+sqlite
+tk
+cgmanager
+libnih
+libXevie
+gamin
+gd
+cairo
+p11-kit
+libxslt
+gst-plugins-base
+gstreamer
+libmng
+libiodbc
+libqmi
+libmbim
+icu4c
+newt
+bluez
+dbus-glib
+libnl3
+libndp
+libmnl
+iptables
+librsvg
+libevent
+net-snmp
+lm_sensors
+pciutils
+libpcap
+glew
+glu
+freeglut
+llvm
+libXxf86misc
+utempter
+orc
+lcms2
+libXfontcache
+libsndfile
+libtasn1
+libgcrypt
+libgpg-error
+cdparanoia
+libvisual
+libogg
+libtheora
+libvorbis
+libical
+libnetfilter_conntrack
+libnfnetlink
+libnftnl
+flac
+gtk+
+glib
+xmms
+esound
+audiofile
+libpthread-stubs
+libidn
+mozilla-nss
+xf86miscproto
+fontcacheproto
+
+
+        acl: acl
+       attr: attr
+   autoconf: autoconf
+   automake: automake
+       bash: bash
+         bc: bc
+   binutils: binutils
+      bison: bison
+      bzip2: bzip2
+      check: 
+  coreutils: coreutils
+    dejagnu: 
+  diffutils: diffutils
+      eudev: eudev
+  e2fsprogs: e2fsprogs
+      expat: expat
+     expect: expect
+       file: file
+  findutils: findutils
+       flex: flex
+       gawk: gawk
+        gcc: gcc
+   iana-etc: 
+  inetutils: 
+   intltool: intltool
+   iproute2: iproute2
+        kbd: kbd
+       kmod: kmod
+       less: less
+     libcap: libcap
+libpipeline: 
+    libtool: libtool
+         m4: m4
+       make: make
+        man: man
+  man-pages: man-pages
+        mpc: libmpc
+       mpfr: mpfr
+    ncurses: ncurses
+      patch: patch
+       perl: perl
+ pkg-config: pkg-config
+  procps-ng: procps-ng
+     psmisc: 
+   readline: readline
+        sed: sed
+     shadow: shadow
+   sysklogd: sysklogd
+   sysvinit: sysvinit
+   sysvinit: sysvinit-scripts
+        tar: tar
+        tcl: tcl
+    texinfo: texinfo
+     tzdata: 
+ util-linux: util-linux
+        vim: vim
+         xz: xz
+       zlib: zlib
