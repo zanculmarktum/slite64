@@ -1,5 +1,5 @@
 ### Usage:
 ```
 $ cd tagfiles
-$ ./gentag.sh
+$ REPO_HOME=/path/to/slackware/tree ./gentag.sh
 ```
