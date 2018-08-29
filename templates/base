@@ -389,6 +389,7 @@ libpipeline:
    sysklogd: sysklogd
    sysvinit: sysvinit
    sysvinit: sysvinit-scripts
+   sysvinit: sysvinit-functions
         tar: tar
         tcl: tcl
     texinfo: texinfo
