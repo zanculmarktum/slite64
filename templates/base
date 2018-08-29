@@ -82,6 +82,8 @@ ntp
 ca-certificates
 libnotify
 python
+elilo
+efibootmgr
 
 
 openssl
