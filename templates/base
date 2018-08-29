@@ -84,6 +84,8 @@ libnotify
 python
 elilo
 efibootmgr
+wpa_supplicant
+dhcpcd
 
 
 openssl
