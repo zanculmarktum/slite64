@@ -86,6 +86,7 @@ elilo
 efibootmgr
 wpa_supplicant
 dhcpcd
+acpid
 
 
 openssl
