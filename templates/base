@@ -342,6 +342,7 @@ libidn
 mozilla-nss
 xf86miscproto
 fontcacheproto
+libtirpc
 
 
         acl: acl
