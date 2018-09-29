@@ -343,6 +343,7 @@ mozilla-nss
 xf86miscproto
 fontcacheproto
 libtirpc
+floppy
 
 
         acl: acl
